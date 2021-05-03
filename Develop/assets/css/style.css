@@ -53,6 +53,7 @@ p {
   font-size: 16px;
 }
 
+/* Main image on top of page style */
 .hero {
   height: 800px;
   width: 100%;
@@ -62,6 +63,7 @@ p {
   background-position: center;
 }
 
+/* Main content section */
 .content {
   width: 75%;
   display: inline-block;
@@ -126,15 +128,7 @@ p {
   max-height: 200px;
 } */
 
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
+/* Image float style  */
 
 .float-left {
   float: left;
@@ -144,6 +138,16 @@ p {
 .float-right {
   float: right;
   margin-left: 25px;
+}
+
+.search-engine-optimization h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.online-reputation-management h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 .social-media-marketing h2 {
